@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="小题大作">
+  <rect width="64" height="64" rx="14" fill="#0f766e"/>
+  <rect x="12" y="9" width="40" height="46" rx="7" fill="#ffffff"/>
+  <path d="M20 21h24M20 32h10M20 43h24" stroke="#d7eee7" stroke-width="4" stroke-linecap="round"/>
+  <path d="M35 30h10M40 25v10" stroke="#0f766e" stroke-width="3.5" stroke-linecap="round"/>
+  <path d="M34 45h12M34 49h12" stroke="#f59e0b" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="22" cy="31" r="4" fill="#f59e0b"/>
+  <path d="M18.5 31h7" stroke="#ffffff" stroke-width="2.2" stroke-linecap="round"/>
+  <path d="M48 12l4 4" stroke="#99f6e4" stroke-width="3" stroke-linecap="round"/>
+  <path d="M15 52l7-2 24-24-5-5-24 24-2 7z" fill="#f8c36a"/>
+  <path d="M41 21l5 5" stroke="#92400e" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M15 52l7-2-5-5-2 7z" fill="#1f2937"/>
+</svg>
